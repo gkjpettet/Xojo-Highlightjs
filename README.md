@@ -1,4 +1,4 @@
-# Xojo-Highlighterjs
+# Xojo-Highlightjs
 
 [Highlight.js] language definition for Xojo.
 
