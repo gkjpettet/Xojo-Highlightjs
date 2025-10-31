@@ -1,2 +1,2 @@
 # Xojo-Highlighterjs
-Highlighterjs language definition for Xojo
+Highlighter.js language definition for Xojo
